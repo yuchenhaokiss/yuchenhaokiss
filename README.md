@@ -1,6 +1,14 @@
-## Hi there 👋
+<h1>Hello, Welcome to my GitHub</h1>
+
+<h2>Projects:</h2>
+
+- <b>Python</b>
+  - [Learning python](https://github.com/yuchenhaokiss/LearningPython/tree/main)
+  - [Projects I did myself](https://github.com/yuchenhaokiss/PythonProjects/tree/main)
+
 
 <!--
+
 **yuchenhaokiss/yuchenhaokiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
