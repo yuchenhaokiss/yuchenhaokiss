@@ -5,6 +5,7 @@
 - <b>Python</b>
   - [Learning python](https://github.com/yuchenhaokiss/LearningPython/tree/main)
   - [Projects I did myself](https://github.com/yuchenhaokiss/PythonProjects/tree/main)
+  - [Getting data from Riot API](https://github.com/yuchenhaokiss/Riot_API/tree/main)
 
 
 <!--
