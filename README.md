@@ -7,7 +7,6 @@
   - [Projects I did myself](https://github.com/yuchenhaokiss/PythonProjects/tree/main)
   - [Getting data from Riot API](https://github.com/yuchenhaokiss/Riot_API/tree/main)
 <!--
-
 **yuchenhaokiss/yuchenhaokiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
